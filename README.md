@@ -1,10 +1,10 @@
 # Digital Literacy Portfolio Project
-Student Details
-Name: Soumya Gupta
-Registration Number: 25BAI10628
-Branch & Year: Computer Science Engineering (Artificial intelligence and Machine Learning, 1st Year
-Course Code: CSE0001
-Course Title: Digital Literacy
+Student Details 
+Name: Soumya Gupta 
+Registration Number: 25BAI10628 
+Branch & Year: Computer Science Engineering (Artificial intelligence and Machine Learning, 1st Year 
+Course Code: CSE0001 
+Course Title: Digital Literacy 
 
 # Project Overview
 This repository contains my Digital Literacy Portfolio Project, created as part of the CSE0001 course.
@@ -99,8 +99,8 @@ Safe and responsible internet usage
 Awareness of cyber threats and prevention
 Effective online communication
 # Tools & Platforms Used
-Canva / Prezi / Google Slides
-GitHub
-LinkedIn
-HackerRank / CodeChef
+Canva / Prezi / Google Slides, 
+GitHub,
+LinkedIn,
+HackerRank / CodeChef,
 Google Forms

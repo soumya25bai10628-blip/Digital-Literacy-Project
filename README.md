@@ -64,9 +64,7 @@ digital-literacy-project/
 │
 
 └── task-5-cybercrime/
-
     ├── casestudy.md
-    
     └── prevention-checklist.md
     
     

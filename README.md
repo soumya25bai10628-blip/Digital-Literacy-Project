@@ -1,9 +1,14 @@
 # Digital Literacy Portfolio Project
-Student Details 
+Student Details :-
+
 Name: Soumya Gupta 
+
 Registration Number: 25BAI10628 
+
 Branch & Year: Computer Science Engineering (Artificial intelligence and Machine Learning, 1st Year 
+
 Course Code: CSE0001 
+
 Course Title: Digital Literacy 
 
 # Project Overview

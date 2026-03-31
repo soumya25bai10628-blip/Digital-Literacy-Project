@@ -20,30 +20,55 @@ The project is divided into five tasks, each aligned with a course module, and d
 
 # Repository Structure
 digital-literacy-project/
+
 │
+
 ├── README.md
+
 ├── report/
+
 │   └── Project_Report.pdf
+
 │
+
 ├── task-1-presentation/
+
 │   └── infographic.png / link.txt
+
 │
+
 ├── task-2-portfolio/
+
 │   └── profile-screenshots/
+
 │
+
 ├── task-3-platforms/
+
 │   ├── coding-challenge.png
+
 │   ├── google-form.png
+
 │   └── response-sheet.png
+
 │
+
 ├── task-4-email-etiquette/
+
 │   ├── email1.txt
+
 │   ├── email2.txt
+
 │   └── social-media-checklist.md
+
 │
+
 └── task-5-cybercrime/
+
     ├── casestudy.md
+    
     └── prevention-checklist.md
+    
     
 # Task Summaries
 Task 1 – Digital Literacy Infographic
@@ -59,9 +84,9 @@ Designed to spread awareness among students.
 # Task 2 – Student Digital Portfolio
 Created/updated profiles on:
 
-GitHub
-LinkedIn
-Kaggle
+GitHub,
+LinkedIn,
+Kaggle,
 Built a professional online presence for future academic and career growth.
 
 # Task 3 – Platforms Exploration
@@ -94,14 +119,15 @@ Included prevention tips and reporting methods.
 # Project Report
 The detailed report is available in the report/ folder and includes:
 
-Task-wise explanations
-Reflections and learnings
+Task-wise explanations,
+Reflections and learnings,
 Final conclusion
+
 # Key Learnings
-Importance of digital literacy in modern education
-Building a professional digital identity
-Safe and responsible internet usage
-Awareness of cyber threats and prevention
+Importance of digital literacy in modern education,
+Building a professional digital identity,
+Safe and responsible internet usage,
+Awareness of cyber threats and prevention,
 Effective online communication
 # Tools & Platforms Used
 Canva / Prezi / Google Slides, 
